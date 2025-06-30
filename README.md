@@ -1,4 +1,4 @@
-## Hello! I'am Eduardo Pablo, Developer and Ethical Hacker!
+## Hello! I'am Eduardo Pablo, Python Developer!
 
 
   <div align="center">
